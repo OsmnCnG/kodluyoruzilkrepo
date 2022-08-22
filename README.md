@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
-* Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-* Bu repo içerisinde bir adet index.html ve bir adet README.md dosyası bulunduruyor.
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Bu repo içerisinde bir adet index.html ve bir adet README.md dosyası bulunduruyor.
 
 ## INSTALLATİON
 
@@ -13,10 +13,12 @@ git clone https://github.com/OsmnCnG/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
+```
 cd kodluyoruzilkrepo
 code .
+```
 ## CONTRIBUTING
-* Pull requestler kabul edilir...
+Pull requestler kabul edilir...
 
 ## LICENCE
 
