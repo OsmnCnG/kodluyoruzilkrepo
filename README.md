@@ -5,9 +5,9 @@
 ## INSTALLATİON
 
 Öncelikle projeyi clonelayın. 
-
+```
 git clone https://github.com/OsmnCnG/kodluyoruzilkrepo.git
-
+```
 ## USAGE
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
